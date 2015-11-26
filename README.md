@@ -4,7 +4,7 @@ MARCHING SQUARES 2D Alpha.001
 TRIANGULATION USING MARCHING SQUARES ALGORITHM
 https://en.wikipedia.org/wiki/Marching_squares
 
-You can see the web implementation in http://alpha-001-dot-cagatayyapici-polygonization.appspot.com/
+You can play with it here with web implementation at http://alpha-001-dot-cagatayyapicimarchingsquares.appspot.com/
 
 THE PROJECT HAS BEEN TESTED AND WORKS FINE WITH JAVA 
 
