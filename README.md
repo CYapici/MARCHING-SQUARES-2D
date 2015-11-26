@@ -30,21 +30,17 @@ edit- the 15 cases of marching cubes generates triangulation as triangle , quad 
  
 The project has 2 different implementations including Generic Programming 
 
-1-Marching Squares Generic Class returns the pojo models ( TRIANGLE QUAD PENTAGON AS A GENERIC LIST)
+1-Marching Squares Generic Class returns the pojo models ( TRIANGLE QUAD PENTAGON AS A GENERIC LIST )
 
 2-Virtual Grid Class has a non generic 15 cased method which returns Vector2d of Lists.
 
 Returning Pointer
 
-For AJAX CALLS and non generic implementation  List<Vector3[]> data structure is prefered instead of List<List<Vector3> 
-
-because of 15 known marching squares predicted the inner array size.
+For AJAX CALLS and non generic implementation  List<Vector3[]> data structure is prefered instead of List<List<Vector3> because of 15 predefined marching square cases.
  
 Special Data Pointers 
 
-Since java does not have struct , the vector classes created in Utils package are simple pointers having 2 or 3 dimensional
-
-constructors.
+Since java does not have struct , the vector classes created in Utils package are simple pointers having 2 or 3 dimensional constructors.
 
 Testing 
 
@@ -52,11 +48,11 @@ The Projects main method  has been tested with Junit .
 
 Conversion
 
-And Can easily be converted to C# (UnityEngine Lib or XNA) since there is vertex and triangle lists in Virtual Grid Class 
+Can easily be converted to C# (UnityEngine Lib or XNA) since there is vertex and triangle lists in Virtual Grid Class 
 
 EXECUTION:
 
-Example usage in The main class of  Execute package must have following methods sequatally
+Example usage in The main class of  Execute package must have following methods  
 
     InitChunks();
 		List<Vector3[]> results = EditVoxels(new Vector3(0, 0, 0));
