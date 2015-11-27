@@ -36,7 +36,7 @@ The project has 2 different implementations including Generic Programming
 
 Returning Pointer
 
-For AJAX CALLS and non generic implementation  List<Vector3[]> data structure is prefered instead of List<List<Vector3> because of 15 predefined marching square cases.
+For AJAX CALLS  non generic implementation    (  List<Vector3[]>  ) is prefered instead of List<List<Vector3> because of 15 predefined marching square cases.
  
 Special Data Pointers 
 
