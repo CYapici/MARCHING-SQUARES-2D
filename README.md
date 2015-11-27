@@ -20,9 +20,9 @@ The Project simply process triangulation with marching squares algorithm. There 
 
 ALGORITHM check & edit 
 
-***if neighbours are available create shapes using their points with appropriate 15 cases
+***if neighbours are available create shapes using their points with appropriate 15 cases then mark them
 
-check- the algorithm checks the mouse click   and looking at its neighbours if their states are true editing them as false 
+check- the algorithm checks the mouse click   and looking at its neighbours if their states are true then marking them
 
 edit- the 15 cases of marching cubes generates triangulation as triangle , quad and pentagon . other shapes eg hexagon drives from double triangles...
 
