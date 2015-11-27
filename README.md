@@ -36,7 +36,7 @@ The project has 2 different implementations including Generic Programming
 
 Returning Pointer
 
-For AJAX CALLS  non generic implementation     array of list prefered instead of list of list generic implementation because of 15 predefined marching square cases.
+For AJAX CALLS  non generic implementation     list of array is prefered instead of list of list generic implementation because of 15 predefined marching square cases.
  
 Special Data Pointers 
 
